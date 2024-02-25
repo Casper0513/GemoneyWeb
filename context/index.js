@@ -21,8 +21,8 @@ import {
   FACTORY_ADDRESS,
   web3Provider,
   positionManagerAddress,
-  internalWooxContract,
-  internalICOWooxContract,
+  internalGemoneycoinTokenContract,
+  internalICOGemoneycoinTokenContract,
   internalAddLiqudity,
   getBalance,
 } from "./constants";
