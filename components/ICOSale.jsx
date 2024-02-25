@@ -103,7 +103,7 @@ const ICOSale = ({ tokenSale, nativeToken, buyToken }) => {
                     {tokenSale?.tokenPrice * tokenSale?.tokenSaleBalance}
                   </span>
 
-                  <span className="c-link-color">Matic</span>
+                  <span className="c-link-color">BSC</span>
                 </span>
               </div>
 
