@@ -21,11 +21,10 @@ const Analytic = () => {
                 <div className="crumina-module crumina-counter-item">
                   <h4 className="counter-title">Market price</h4>
                   <p className="counter-text">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Eligendi ut architecto, dolore consequatur consequuntur
-                    harum veniam consectetur sequi fuga molestias maiores
-                    aspernatur repellat ea obcaecati iure. Blanditiis ab dolore
-                    facere?
+                    Nvidia Corp.’s NVDA, +0.36% earnings results felt like a national holiday of sorts. 
+                    Countdowns and endless commentary surrounded the biggest moment in the stock market so far this year for what Goldman Sachs is now 
+                    referring to as the most important stock in the world. 
+                    On CNBC, Jim Cramer was quick to point out that Nvidia CEO Jensen Huang is a bigger visionary than Tesla’s Elon Musk.
                   </p>
                   <div className="counter-line"></div>
                 </div>
