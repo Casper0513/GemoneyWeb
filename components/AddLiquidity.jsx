@@ -33,9 +33,9 @@ const AddLiquidity = ({ CREATE_LIQUIDITY, setOpenAllLiquidity }) => {
                   }}
                 >
                   <option>Select Items</option>
-                     {poolHistory.map((pool, index) => (
+                  {poolHistory.map((pool, index) => (
                     <option key={index + 1} value={index + 1}>
-                      {pool.token_A.name} & {pool.token_B.symbol} Fee: {""}{" "}
+                      {pool.token_A.name} & {pool.token_B.symbol} Fee: {""}{""}
                       {pool.fee}
                     </option>
                   ))}
