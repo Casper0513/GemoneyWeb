@@ -10,7 +10,6 @@ const Header = ({ setOpenAddPool, setOpenAllLiquidity, connect, address }) => {
         <div className="header-content-wrapper">
           <a href="/" className="site-logo"> </a>
           <nav id="primary-menu" className="primary-menu">
-            <img src="img/logo-primary.png" alt="" />
              <ul className="primary-menu-menu">
               <li>
                 <a href="/">Home</a>
