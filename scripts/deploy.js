@@ -18,8 +18,8 @@ async function main() {
   const ICOGemoneycoinToken = await hre.ethers.getContractFactory("ICOGemoneycoinToken");
   const icoGemoneycoinToken = await ICOGemoneycoinToken.deploy(GemoneycoinToken.address, _tokenPrice);
 
-  await icoGemoneycoinToken.deployed();
-  console.log(` ICOGemoneycoinToken: ${icoGemoneycoinToken.address}`);
+  await ICOGemoneycoinToken.deployed();
+  console.log(` ICOGemoneycoinToken: ${ICOGemoneycoinToken.address}`);
 
   //LIQUIDITY
   const Liqudity = await hre.ethers.getContractFactory("Liqudity");
