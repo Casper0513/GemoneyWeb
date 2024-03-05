@@ -5,7 +5,6 @@ import {
   Header,
   Footer,
   Hero,
-  ICOTokens,
   LiquidityHistory,
   ICOSale,
   Access,
@@ -18,8 +17,6 @@ import {
   Loader,
   Input,
   PoolInput,
-  //HeaderICON,
-  //FooterICON,
 } from "../components/index";
 import { CONTEXT } from "../context/index";
 
