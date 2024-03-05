@@ -1,7 +1,6 @@
 import Header from "./Header";
 import Footer from "./Footer";
 import Hero from "./Hero";
-import ICOTokens from "./ICOTokens";
 import LiquidityHistory from "./LiquidityHistory";
 import ICOSale from "./ICOSale";
 import Access from "./Access";
@@ -19,7 +18,6 @@ export {
   Header,
   Footer,
   Hero,
-  ICOTokens,
   LiquidityHistory,
   ICOSale,
   Access,
