@@ -13,7 +13,7 @@ const Analytic = () => {
                 Life in the
                 <span className="weight-bold">digital world</span>
               </h2>
-              <div className="heading-text">Blockchain Technology</div>
+              <div className="heading-text">Time Line of GemoneycoinToken</div>
             </header>
 
             <div className="counters">
