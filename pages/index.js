@@ -53,7 +53,6 @@ const index = () => {
 
       <div className="main-content-wrapper">
         <Hero transferNativeToken={transferNativeToken} />
-        <ICOTokens />
         <LiquidityHistory GET_ALL_LIQUIDITY={GET_ALL_LIQUIDITY} />
         <App />
         <Analytic />
