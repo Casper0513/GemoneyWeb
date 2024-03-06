@@ -15,10 +15,11 @@ const Hero = ({ transferNativeToken }) => {
                 The way the world will change!
               </h2>
               <div className="heading-text">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                Asperiores quae ullam voluptatem culpa voluptate laborum sed
-                nisi accusantium error, id ipsam deserunt optio sapiente
-                ducimus? Tempore deserunt sunt porro quod.
+                Gemoney short for Hegomey.
+                Domination, influence, or authority over another, especially by one political group over a society or by one nation over others.
+
+                We WILL DOMINATE the crypto world one letter at a time!
+                Meet the Gemoneycoin!
               </div>
             </header>
 
