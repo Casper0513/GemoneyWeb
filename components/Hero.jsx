@@ -10,9 +10,9 @@ const Hero = ({ transferNativeToken }) => {
         <div className="row medium-padding120 align-center">
           <div className="col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 col-xs-12">
             <header className="crumina-module crumina-heading heading--h2 heading--with-decoration">
-              <div className="heading-sup-title">Coin Market</div>
+              <div className="heading-sup-title">GEMONEYCOIN</div>
               <h2 className="heading-title heading--half-colored">
-                Created Liqudity Marketplace
+                The way the world will change!
               </h2>
               <div className="heading-text">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit.
