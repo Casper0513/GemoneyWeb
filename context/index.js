@@ -90,7 +90,7 @@ export const CONTEXT_Provider = ({ children }) => {
     }
   };
 
-  //GTE POOL ADDRESS
+  //GET POOL ADDRESS
   const GET_POOL_ADDRESS = async (token_1, token_2, fee) => {
     try {
       setLoader(true);
@@ -417,7 +417,7 @@ export const CONTEXT_Provider = ({ children }) => {
       const PROVIDER = await web3Provider();
       const signer = PROVIDER.getSigner();
       //
-      const TOKEN_SALE_ADDRESS = "0x4ec87f7C6d353F8DE3aC78ad2D5eFa7D8Dd3084F";
+      const TOKEN_SALE_ADDRESS = "0x3A61E507e4d38036aE58aF1087e6c123eC956669";
       const TOKEN_AMOUNT = 5000;
       const tokens = TOKEN_AMOUNT.toString();
       const transferAmount = ethers.utils.parseEther(tokens);
