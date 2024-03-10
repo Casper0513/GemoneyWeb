@@ -26,7 +26,7 @@ import {
   internalAddLiqudity,
   getBalance,
 } from "./constants";
-import { parseErrorMsg } from "../Utils/index";
+import { parseErrorMsg } from "../utils/index";
 
 export const CONTEXT = React.createContext();
 
